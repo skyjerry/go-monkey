@@ -1,1 +1,1 @@
-Write code while reading _Writing An Interpreter In Go_
+Coding while reading _Writing An Interpreter In Go_
