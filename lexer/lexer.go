@@ -9,6 +9,7 @@ type Lexer struct {
 	ch           byte // 正在查看的字符
 }
 
+// New ...
 func New(input string) *Lexer {
 	l := &Lexer{input: input}
 	l.readChar()
